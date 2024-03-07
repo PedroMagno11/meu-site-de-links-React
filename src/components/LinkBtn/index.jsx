@@ -1,4 +1,4 @@
-import "./LinkBtn.css";
+import "./linkBtn.css";
 
 const LinkBtn = (props) => {
     return(
