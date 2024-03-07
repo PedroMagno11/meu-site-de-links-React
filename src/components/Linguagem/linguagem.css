@@ -1,0 +1,11 @@
+.img-lang {
+  border: none;
+  width: 50px;
+}
+
+
+@media (min-width: 1440px){
+  .img-lang{
+    width: 80px;
+  }
+}
